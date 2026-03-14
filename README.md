@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-git clone <this-repo> Phantom
+git clone https://github.com/ManuPanghal-DEV/Phantom.git
 cd Phantom
 chmod +x install.sh
 ./install.sh
