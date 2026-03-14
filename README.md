@@ -119,7 +119,7 @@ phantom --change-password
 
 ## Requirements
 
-- **Linux Mint** (or any distro using Cinnamon/GNOME with `.desktop` file standards)
+- **Linux **  any distro using Cinnamon/GNOME with `.desktop` file standards
 - **Python 3.10+** (pre-installed on Linux Mint 21+)
 - Terminal with ANSI escape code support (virtually every modern terminal)
 
